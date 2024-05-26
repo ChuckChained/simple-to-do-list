@@ -1,0 +1,9 @@
+.buttonInput {
+    width: 95%;
+    text-align: end;
+}
+
+.textInput {
+    width: 95%;
+    min-height: 150px;
+}
